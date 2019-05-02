@@ -1,0 +1,65 @@
+[
+  {
+    "title": "Rollo cubierto con philadelphia y ajonjoli",
+    "brand": "Ajonjoli",
+    "price": 60,
+    "description": "Rollo cubierto de alga por fuera,relleno de zanahoria,pepino,philadelphia, dos salsas y carne a esocger.",
+    "image": "ajonjoli.jpg"
+  },
+  {
+    "title": "Rollo cubierto de philadelphia y camaron",
+    "brand": "Chizu",
+    "price": 70,
+    "description": "Rollo blanco cubierto con philadelphia y camaron, relleno de zanahoria,pepino,philadelphia, dos salsas y carne a esocger.",
+    "image": "chizu.jpg"
+  },
+  {
+    "title": "Rollo philadelphia,cubierto con camarones empanizados.",
+    "brand": "Kongu",
+    "price": 75,
+    "description": "Rollo con camarones empanizados crujientes,relleno de zanahoria,pepino,philadelphia, tres salsas y carne a esocger",
+    "image": "Kongu.jpg"
+  },
+  {
+    "title": "Rollo cubierto de surimi",
+    "brand": "Surimi",
+    "price": 70,
+    "description": "Rollo cubierto con surimi freso,relleno de zanahoria,pepino,philadelphia, dos salsas y carne a esocger.",
+    "image": "surimi.jpg"
+  },
+  {
+    "title": "Cubierto de aguacate",
+    "brand": "Yayo",
+    "price": 70,
+    "description": "Rollo totalmente cubierto de aguacate,relleno de zanahoria,pepino,philadelphia, dos salsas y carne a esocger.",
+    "image": "yayo.jpg"
+  },
+  {
+    "title": "Rollo cubierto de platano macho,rebanadas de aguacate y ajonjoli",
+    "brand": "yaya",
+    "price": 80,
+    "description": "Rollo cubierto de platano macho,rebanadas de aguacate y salsa tampico,relleno de zanahoria,pepino,philadelphia, tres salsas y carne a esocger.",
+    "image": "yaya.jpg"
+  },
+  {
+    "title": "Orden de bolas de fuego.",
+    "brand": "Bolas de fuego",
+    "price": 75,
+    "description": "Bolas de fuego,rellenas de zanahora,pepino y surimi,mas dos salsas a esocger.",
+    "image": "bolas.jpg"
+  },
+  {
+    "title": "Charola de 5 rollos.",
+    "brand": "CHarola",
+    "price": 290,
+    "description": "Charola con 5 rollos surtidos con 15 salsas a escoger.",
+    "image": "charola.jpg"
+  },
+  {
+    "title": "Refrescante bebida.",
+    "brand": "Té Helado ",
+    "price": 15,
+    "description": "Te helado de limon 500ml",
+    "image": "te.jpg"
+  }
+]
